@@ -1,0 +1,7 @@
+{
+    "from": "<a@b.c>",
+    "to": "b@c.d",
+    "subject": "hello from faasmail",
+    "text": "whatup",
+    "html": "<h1>whatup</h1>"
+}
